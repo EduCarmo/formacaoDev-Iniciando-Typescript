@@ -10,4 +10,7 @@
 // import "./tipos/never"
 // import "./tipos/null"
 // import "./tipos/desafio_final"
-import "./poo/classe_1"
+// import "./poo/classe_1"
+// import "./poo/classe_2"
+// import "./poo/classe_3"
+import "./poo/desafio_statico"
