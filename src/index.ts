@@ -13,4 +13,7 @@
 // import "./poo/classe_1"
 // import "./poo/classe_2"
 // import "./poo/classe_3"
-import "./poo/desafio_statico"
+// import "./poo/desafio_statico"
+// import "./interfaces/usuario"
+// import "./interfaces/flexivel"
+import "./interfaces/funcao"
